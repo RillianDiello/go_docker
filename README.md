@@ -17,4 +17,4 @@ Share the link to the remote Git repository so we can review your project.
 Have fun!
 
 Docker Hub Image:
-https://hub.docker.com/repository/docker/rilliandiello/fullcycle
+https://hub.docker.com/r/rilliandiello/fullcycle
